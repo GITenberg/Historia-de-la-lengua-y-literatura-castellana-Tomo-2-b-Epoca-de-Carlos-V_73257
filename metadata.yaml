@@ -1,0 +1,41 @@
+_repo: Historia-de-la-lengua-y-literatura-castellana-Tomo-2-b-Epoca-de-Carlos-V_73257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cejador y Frauca, Julio
+    aliases:
+    - Frauca, Julio Cejador y
+    - Cejador, Julio
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '6831'
+    url: http://www.gutenberg.org/2009/agents/6831
+    wikipedia: https://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73257'
+language: es
+pgterms:marc904: https://archive.org/details/historiadelaleng02ceja/page/n7/mode/2up
+pgterms:marc905: 20200416155325cejadoryfr
+pgterms:marc906: '1915'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Santiago, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aMadrid :$bTip. de la "Rev. de arch., bibl. y museos", $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- History and criticism'
+- !lcsh 'Basque language'
+- !lcsh 'Spanish American literature -- History and criticism'
+- !lcsh 'Spanish language -- History'
+- !lcsh 'Spanish American literature -- Bibliography'
+- !lcc 'PQ'
+- GITenberg
+title: 'Historia de la lengua y literatura castellana, Tomo 2 : $b Época de Carlos
+  V'
+url: http://www.gutenberg.org/ebooks/73257
