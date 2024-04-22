@@ -1,5 +1,8 @@
 _repo: Historia-de-la-lengua-y-literatura-castellana-Tomo-2-b-Epoca-de-Carlos-V_73257
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73257-h/images/cover.jpg
 creator:
   author:
     agent_name: Cejador y Frauca, Julio
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6831
     wikipedia: https://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73257#Historia-de-la-lengua-y-literatura-castellana-Tomo-2-b-Epoca-de-Carlos-V
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
